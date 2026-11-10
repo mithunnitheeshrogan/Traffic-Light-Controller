@@ -102,22 +102,6 @@ Expected console output ends with:
 *** TEST PASSED: no errors ***
 ```
 
-## Results
-
-Add your screenshots to `docs/` and reference them here:
-
-```
-![Waveform](docs/waveform.png)
-![Transcript](docs/transcript.png)
-```
-
-## Possible Extensions
-
-- Pedestrian crossing request input
-- 4-way intersection (N/S and E/W)
-- Emergency vehicle override
-- Clock divider for a real board clock
-
 ## Tools
 
 - Verilog (Verilog-2001)
